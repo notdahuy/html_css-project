@@ -794,10 +794,6 @@ a {
     color: #ffffff;
 }
 
-.footer__form-submit:hover {
-    background: var(--btn-hover);
-}
-
 .footer__copyright {
     display: block;
     font-weight: 400;
